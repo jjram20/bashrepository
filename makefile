@@ -1,3 +1,5 @@
+all: README.md
+
 README.md:
 	echo "# guessinggame.sh" >> README.md
 	date >> README.md
